@@ -1,0 +1,4 @@
+CodingPractices
+===============
+
+Coding Practices 
